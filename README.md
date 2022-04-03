@@ -2,6 +2,8 @@
 Use Crawler to Fetch cryptocurrency info and send to my email
 
 
+﻿﻿
+
 @[TOC](文章目录)
 
 ---
@@ -288,6 +290,9 @@ def detect(time=1*60*60,is_instant=False):
 # 总结
 
 以上就是今天要讲的内容，本文介绍了利用python爬虫来获取数字货币信息，并利用python发送邮件到邮箱。
+
+
+
 
 
 
